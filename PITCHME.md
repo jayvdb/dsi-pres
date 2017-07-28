@@ -20,3 +20,9 @@ Domains:
 
 A focus throughout this presentation is Islands of Indonesia,
 as that is a major open data project I am managing at the moment.
+
+---
+
+## Wikidata Query using SPARQL
+
+<iframe src="http://tinyurl.com/y92cnd9r"></iframe>
