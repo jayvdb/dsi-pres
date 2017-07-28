@@ -1,5 +1,7 @@
 # DSI presentation
 
+---
+
 ## Topics covered
 
 Technologies:
@@ -11,6 +13,8 @@ Domains:
 
 1. Islands of Indonesia
 2. Bibliometrics
+
+---
 
 ## Islands of Indonesia
 
